@@ -2,12 +2,6 @@
 
 Welcome to my GitHub! I'm a multidisciplinary **Software Developer** and **UI/UX Designer** passionate about building polished, user-centered digital experiences.
 
-### 💻 What I do
-
-- 🧠 I **design** intuitive interfaces using **Figma**, with a deep understanding of user experience and interaction design principles.
-- 💡 I **develop** what I design — translating visuals into clean, responsive, and maintainable code.
-- ⚙️ I bridge the gap between design and development, ensuring seamless collaboration and pixel-perfect implementation.
-
 ### 📫 How to reach me
 - Email: tinsaeyirgu88@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tinsae-d-yirgu-14555818a/
