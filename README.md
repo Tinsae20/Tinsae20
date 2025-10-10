@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tinsae!
 
-Welcome to my GitHub! I'm a multidisciplinary **Software Developer** and **UI/UX Designer** passionate about building polished, user-centered digital experiences.
+Welcome to my GitHub! I'm a multidisciplinary **Full-Stack Developer** passionate about building **AI Applications** and user-centered digital experiences.
 
 ### 📫 How to reach me
 - Email: tinsaeyirgu88@gmail.com
