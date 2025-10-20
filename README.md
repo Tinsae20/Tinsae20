@@ -2,8 +2,8 @@
 
 💻 **Full-Stack Developer | LLM Application Develoepr | UI/UX Designer**
 
-I'm passionate about designing and building intelligent, user-centered applications — blending **clean design** with **powerful code**.  
 I love working with modern tools to bring ideas to life, especially in **AI, full-stack web development, and automation**.
+I'm passionate about designing and building intelligent, user-centered applications — blending **clean design** with **powerful code**.  
 
 ## 🚀 Tech Stack
 
