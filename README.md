@@ -1,6 +1,26 @@
 # Hi there 👋 I'm Tinsae!
 
-Welcome to my GitHub! I'm a multidisciplinary **Full-Stack Developer** passionate about building **AI Applications** and user-centered digital experiences.
+💻 **Full-Stack Developer | LLM Application Develoepr | UI/UX Designer**
+
+I'm passionate about designing and building intelligent, user-centered applications — blending **clean design** with **powerful code**.  
+I love working with modern tools to bring ideas to life, especially in **AI, full-stack web development, and automation**.
+
+## 🚀 Tech Stack
+
+**Frontend:**  
+React • Next.js • Tailwind CSS • TypeScript • Figma  
+
+**Backend:**  
+Python • FastAPI • Node.js • Express  
+
+**Database:**  
+MongoDB • PostgreSQL • Supabase  
+
+**DevOps & Cloud:**  
+Docker • Vercel • AWS • GitHub Actions  
+
+**AI Tools:**  
+OpenAI API • LangChain • FastAPI Integrations  
 
 ### 📫 How to reach me
 - Email: tinsaeyirgu88@gmail.com
