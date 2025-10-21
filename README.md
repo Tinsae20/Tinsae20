@@ -7,7 +7,7 @@ I'm passionate about designing and building intelligent, user-centered applicati
 
 ## 🚀 Tech Stack
 
-**Frontend:**  
+**Frontend and UI/UX:**  
 React • Next.js • Tailwind CSS • TypeScript • Figma  
 
 **Backend:**  
